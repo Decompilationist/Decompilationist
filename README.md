@@ -1,5 +1,3 @@
-## Meu nome é Gustavo Menezes!
-
 <div align="center">
   <a href="https://github.com/Decompilationist">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Decompilationist&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
