@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username={Decompilationist}&theme=andromeda
+https://github-readme-stats.vercel.app/api?username=Decompilationist&theme=andromeda
 
 
 
